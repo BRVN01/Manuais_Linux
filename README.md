@@ -1,13 +1,13 @@
 Para aplicar qualquer manual, aplique ele na pasta `/usr/share/man/pt_BR/`.
 
-**man1** *vai na pasta* **/usr/share/man/pt_BR/man1**
-**man2** *vai na pasta* **/usr/share/man/pt_BR/man2**
-**man3** *vai na pasta* **/usr/share/man/pt_BR/man3**
-**man4** *vai na pasta* **/usr/share/man/pt_BR/man4**
-**man5** *vai na pasta* **/usr/share/man/pt_BR/man5**
-**man6** *vai na pasta* **/usr/share/man/pt_BR/man6**
-**man7** *vai na pasta* **/usr/share/man/pt_BR/man7**
-**man8** *vai na pasta* **/usr/share/man/pt_BR/man8**
+**man1** *vai na pasta* **/usr/share/man/pt_BR/man1**<br/>
+**man2** *vai na pasta* **/usr/share/man/pt_BR/man2**<br/>
+**man3** *vai na pasta* **/usr/share/man/pt_BR/man3**<br/>
+**man4** *vai na pasta* **/usr/share/man/pt_BR/man4**<br/>
+**man5** *vai na pasta* **/usr/share/man/pt_BR/man5**<br/>
+**man6** *vai na pasta* **/usr/share/man/pt_BR/man6**<br/>
+**man7** *vai na pasta* **/usr/share/man/pt_BR/man7**<br/>
+**man8** *vai na pasta* **/usr/share/man/pt_BR/man8**<br/>
 
 Para que você possa digitar o comando `man MANUAL` e funcione na tradução português, você deve ter o sistema configurado em português.
 

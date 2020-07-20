@@ -1,3 +1,5 @@
+# Tradução de manuais Linux para lángua Português do Brasil.
+
 Para aplicar qualquer manual, aplique ele na pasta `/usr/share/man/pt_BR/`.
 
 **man1** *vai na pasta* **/usr/share/man/pt_BR/man1**<br/>
